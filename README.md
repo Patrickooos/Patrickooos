@@ -1,4 +1,4 @@
-### Patrickooos
+### Patrick
 
 **I'm currently learning Python, C++ and C#.**  
 <sub>I already know Python, but I continue to learn it.</sub>
