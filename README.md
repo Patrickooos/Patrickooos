@@ -1,7 +1,7 @@
 ### Patrickooos
 
 **I'm currently learning Python, C++ and C#.**  
-*I already know Python, but I continue to learn it.
+<sub>I already know Python, but I continue to learn it.</sub>
 
 <!--
 Here are some ideas to get you started:
