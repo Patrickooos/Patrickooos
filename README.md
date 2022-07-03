@@ -1,6 +1,7 @@
 ### Patrickooos
 
-**I'm currently learning Python, C++ and C#.**
+**I'm currently learning Python, C++ and C#.**  
+
 
 <!--
 Here are some ideas to get you started:
