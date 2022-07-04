@@ -8,7 +8,14 @@ class Patrick:
     def __init__(self):
         self.name = "Patrick"
         self.age = 16
-        self.languages = [{
+        self.programmingLanguages = [
             'Python', 'C++', 'C#'
-        }]
+        ]
+        self.currentlyLearning = [
+            'C++', 'C#'
+        ]
+    
+    @defence
+    def __skidded__(self):
+        print('Hello skids !')
 ```
