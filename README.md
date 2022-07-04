@@ -15,7 +15,7 @@ class Patrick:
             'C++', 'C#'
         ]
     
-    @defence
+    @defense
     def __skidded__(self):
         print('Hello skids !')
 ```
