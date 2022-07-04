@@ -1,17 +1,10 @@
-### Patrick
-
-**I'm currently learning Python, C++ and C#.**  
-<sub>I already know Python, but I continue to learn it.</sub>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Patrick  
+```python
+class Patrick:
+    def __init__(self):
+        self.name = "Patrick"
+        self.age = 16
+        self.languages = [{
+            'Python', 'C++', 'C#'
+        }]
+```
