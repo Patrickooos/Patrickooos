@@ -8,3 +8,4 @@ class Patrick:
         self.age = 16
         self.languages = ['Python', 'C++', 'C#']
 ```
+![snake.gif]("github-contribution-grid-snake.svg")
