@@ -10,4 +10,3 @@ class Patrick:
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Patrickooos.Patrickooos)
-[![Github](https://img.shields.io/github/followers/Patrickooos?label=Follow&style=social)](https://github.com/Patrickooos)
