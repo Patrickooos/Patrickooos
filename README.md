@@ -8,5 +8,3 @@ class Patrick:
         self.age = 16
         self.languages = ['Python', 'C++', 'C#']
 ```
-
-![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.gif)
