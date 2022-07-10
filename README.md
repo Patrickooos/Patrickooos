@@ -25,11 +25,20 @@ namespace Patrickooos
             Console.Write("Languages: ");
 
             int i = 0;
+
             foreach (string language in Languages)
             {
-                Console.Write($"{language}, ");
-            }
+                i++;
 
+                if (i >= 2)
+                {
+                    Console.WriteLine($"{language}");
+                }
+                else
+                {
+                    Console.Write($"{language} - ");
+                }
+            }
             return "";
         }
     }
@@ -46,7 +55,5 @@ namespace Patrickooos
         }
     }
 }
-
-
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
