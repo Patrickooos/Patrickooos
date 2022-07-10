@@ -29,7 +29,7 @@ namespace Patrickooos
             {
                 i++;
 
-                if (i >= 2)
+                if (i > 2)
                 {
                     Console.Write($"{language}");
                 }
@@ -54,6 +54,5 @@ namespace Patrickooos
         }
     }
 }
-
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
