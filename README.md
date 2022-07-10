@@ -1,58 +1,11 @@
 ### Patrick  
-```csharp
-namespace Patrickooos
-{
-    public struct Patrick
-    {
-        string Name;
-        int Age;
+```python
+# -*- coding: utf-8 -*-
 
-        List<string> Languages;
-
-        public Patrick(string name, int age, List<string> languages)
-        {
-            Name = name;
-            Age = age;
-
-            Languages = languages;
-        }
-
-        public override string ToString()
-        {
-            Console.WriteLine($"Name: {Name}\nAge: {Age}");
-
-            Console.Write("Languages: ");
-
-            int i = 0;
-
-            foreach (string language in Languages)
-            {
-                i++;
-
-                if (i > 2)
-                {
-                    Console.Write($"{language}");
-                }
-                else
-                {
-                    Console.Write($"{language} - ");
-                }
-            }
-            return "";
-        }
-    }
-
-    class Github_Profile
-    {
-        public static void Main(string[] args)
-        {
-            List<string> languages = new List<string> { "C#", "C++", "Python" };
-
-            Patrick patrick = new Patrick("Patrick", 16, languages);
-
-            patrick.ToString();
-        }
-    }
-}
+class Patrick:
+    def __init__(self):
+        self.name = 'Patrick'
+        self.age = 16
+        self.languages = ['C#', 'C++', 'Python']
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
