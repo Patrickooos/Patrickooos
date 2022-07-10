@@ -19,8 +19,7 @@ namespace Patrickooos
 
         public override string ToString()
         {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Age: {Age}");
+            Console.WriteLine($"Name: {Name}\nAge: {Age}");
 
             Console.Write("Languages: ");
 
@@ -32,7 +31,7 @@ namespace Patrickooos
 
                 if (i >= 2)
                 {
-                    Console.WriteLine($"{language}");
+                    Console.Write($"{language}");
                 }
                 else
                 {
@@ -55,5 +54,6 @@ namespace Patrickooos
         }
     }
 }
+
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
